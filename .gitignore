@@ -1,0 +1,6 @@
+.terraform/
+*.tfstate
+*.tfstate.bak
+*.tfstate.backup
+.terraform.lock.hcl
+simpeweb
